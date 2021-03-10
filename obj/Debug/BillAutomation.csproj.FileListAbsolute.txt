@@ -1,0 +1,7 @@
+D:\CTS VS\BillAutomation\bin\Debug\BillAutomation.exe.config
+D:\CTS VS\BillAutomation\bin\Debug\BillAutomation.exe
+D:\CTS VS\BillAutomation\bin\Debug\BillAutomation.pdb
+D:\CTS VS\BillAutomation\obj\Debug\BillAutomation.csprojAssemblyReference.cache
+D:\CTS VS\BillAutomation\obj\Debug\BillAutomation.csproj.CoreCompileInputs.cache
+D:\CTS VS\BillAutomation\obj\Debug\BillAutomation.exe
+D:\CTS VS\BillAutomation\obj\Debug\BillAutomation.pdb
