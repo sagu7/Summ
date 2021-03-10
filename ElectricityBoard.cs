@@ -40,6 +40,7 @@ namespace BillAutomation
             //Console.WriteLine("Units " + ebill.UnitsConsumed);
             if (ebill.UnitsConsumed <= 100)
                 ebill.BillAmount = 0;
+
             else if (ebill.UnitsConsumed > 100 && ebill.UnitsConsumed <= 300)
             {
                 int temp = ebill.UnitsConsumed - 100;
